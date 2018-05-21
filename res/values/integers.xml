@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="screen_width">720</integer>
+    <integer name="scrren_height">1280</integer>
+    <integer name="arrow_width">20</integer>
+    <integer name="arrow_height">20</integer>
+</resources>
